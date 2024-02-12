@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "User-App-JavaTechie"
+    }
+  },
+  "defaultProject": "User-App-JavaTechie",
+  "cli": {
+    "analytics": "f4f575e2-a5c4-49da-8545-be6844325a12"
+  }
 }
